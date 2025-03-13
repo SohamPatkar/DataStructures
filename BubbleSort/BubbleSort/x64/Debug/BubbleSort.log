@@ -1,0 +1,3 @@
+﻿  BubbleSort.cpp
+D:\MyFolder\C++ Data structures\BubbleSort\BubbleSort\BubbleSort.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BubbleSort.vcxproj -> D:\MyFolder\C++ Data structures\BubbleSort\x64\Debug\BubbleSort.exe
