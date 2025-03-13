@@ -1,0 +1,3 @@
+﻿  InsertionSort.cpp
+D:\MyFolder\C++ Data structures\InsertionSort\InsertionSort\InsertionSort.cpp(31,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  InsertionSort.vcxproj -> D:\MyFolder\C++ Data structures\InsertionSort\x64\Debug\InsertionSort.exe
