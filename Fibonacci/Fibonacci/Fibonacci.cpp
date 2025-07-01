@@ -15,6 +15,5 @@ int fibonacci(int n)
 
 int main()
 {
-    std::cout << "Hello World!\n";
     std::cout << fibonacci(10);
 }
